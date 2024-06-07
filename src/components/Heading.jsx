@@ -5,7 +5,7 @@ function Heading() {
     
     <center>
         <h1>Hello World !</h1>
-        <p>It's my time</p>
+        <p>It's Our time to</p>
     </center>
 
   )
