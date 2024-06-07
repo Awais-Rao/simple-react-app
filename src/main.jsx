@@ -6,7 +6,7 @@ import Heading from "./components/Heading.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Heading />
+    <App />
+    {/* <Heading /> */}
   </React.StrictMode>
 );
