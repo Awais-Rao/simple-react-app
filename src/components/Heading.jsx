@@ -19,6 +19,7 @@ function Heading() {
         <p>fourth</p>
         <p>fifth</p>
         <p>sixth</p>
+        <p>seventh</p>
   
     </center>
 
